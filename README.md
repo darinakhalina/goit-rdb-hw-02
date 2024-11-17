@@ -82,3 +82,7 @@
 ### ER Diagram
 
 ![ER Diagram](./screenshots/p4_erdiagram2.png)
+
+### Database Schema
+
+![Database Schema](./screenshots/p5.png)
