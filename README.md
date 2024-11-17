@@ -93,4 +93,5 @@
 
 ### Database Schema
 
-![Database Schema](./screenshots/p5.png)
+![Database Schema p1](./screenshots/p5_1.png)
+![Database Schema p2](./screenshots/p5_2.png)
