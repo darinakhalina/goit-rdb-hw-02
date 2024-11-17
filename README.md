@@ -78,3 +78,7 @@
 | 1   | Хрещатик    | 1       |
 | 2   | Басейна     | 2       |
 | 3   | Комп'ютерна | 3       |
+
+### ER Diagram
+
+![ER Diagram](./screenshots/p4_erdiagram2.png)
